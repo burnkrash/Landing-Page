@@ -24,4 +24,6 @@ This is a great challenge for me that will require the following:
 
 Thank you for visiting my github page, any feedback is appreciated!
 
+I'm not the owner of the images displayed in this page, this is only for learning porpuses
+
 ~Burn_Krash
