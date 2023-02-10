@@ -136,4 +136,55 @@ h1 {
     text-align: right;
 }
 
+/* sign up */
+
+.adoption {
+    background-color: #3882f6;
+    margin: 50px 200px;
+    padding: 10px 80px;
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+    border-color: none;
+}
+
+.sign-in {
+    flex: 1;
+}
+
+.sign-text {
+    text-align: left;
+}
+
+.sign-text p {
+    color: #FFFFFF;
+    opacity: 0.7;
+    
+}
+
+h3 {
+    color: #fff;
+    font-family: 'Roboto', arial;
+    padding: 0;
+    margin: 30px 0px 0px 50px;
+    
+}
+
+.sign-up button {
+    color: #FFF;
+    font-family: 'Roboto', arial;
+    border-color: #fff;
+    border-radius: 8px;
+    background-color: #3882F6;
+    padding: 5px 25px;
+    font-size: 15px;
+}
+
 /* footer */
+
+.footer {
+    background-color: #1F2937;
+    color: #fff;
+    font-family: 'Roboto', arial;
+}
+
