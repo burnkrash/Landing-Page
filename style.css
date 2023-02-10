@@ -22,6 +22,8 @@ body {
 }
 
 .logo img {
+    display: flex;
+    flex-basis: 20%;
     width: 150px;
     height: 100px;
     margin-right: auto;
@@ -29,17 +31,22 @@ body {
 
 .header-link {
     display: flex;
+    flex-basis: 20%;
     margin-left: auto;
     padding: 0px 100px 0px 0px;
 }
 
 .header a {
+    display: flex;
     text-decoration: none;
     color: #E5E7EB;
     font-size: 18px;
     padding: 10px;
     font-family: 'Roboto', arial;
+    gap: 20px;
 }
+
+/* top */
 
 .box {
     display: flex;
