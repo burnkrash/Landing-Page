@@ -34,6 +34,7 @@ body {
     flex-basis: 20%;
     margin-left: auto;
     padding: 0px 100px 0px 0px;
+    justify-content: space-between;
 }
 
 .header a {
@@ -43,7 +44,7 @@ body {
     font-size: 18px;
     padding: 10px;
     font-family: 'Roboto', arial;
-    gap: 20px;
+    
 }
 
 /* top */
